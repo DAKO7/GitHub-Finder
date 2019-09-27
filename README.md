@@ -1,2 +1,1 @@
-# GitHub-Finder
-#:sunglasses:
+# GitHub-Finder:sunglasses:
